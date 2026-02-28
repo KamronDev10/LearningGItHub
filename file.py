@@ -6,6 +6,7 @@ while True:
     if n == guess:
         print("topdingiz")
         break
+    guesses+=1
     if guess >=3:
         print("yutqazdingiz ")
         break
